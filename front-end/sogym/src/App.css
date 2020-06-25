@@ -1,0 +1,7 @@
+.App {
+  height: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(1, 104, 151)
+}
